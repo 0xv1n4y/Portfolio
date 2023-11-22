@@ -3,7 +3,7 @@ import { getImageUrl } from "../../utils";
 import styles from "./Main.module.css";
 
 const Main = () => {
-  const Path = getImageUrl("resume/resume.pdf");
+  const Path = getImageUrl("resume/0xv1n4y.pdf");
 
   const handleDownload = () => {
     window.open(Path, "_blank");
