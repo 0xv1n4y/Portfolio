@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Crypto-World",
+    "imageSrc": "projects/crypto.png",
+    "description": "This web application fetches live cryptocurrency prices in both rupees and US dollars using the CoinGecko API. It displays real-time data and single-coin chart Data... ",
+    "skills": ["React", "Firebase"],
+
+    "source": "https://github.com/0xv1n4y/crypto-world"
+  },
+  {
+    "title": "Blog-App",
+    "imageSrc": "projects/blog.png",
+    "description": "Developed a feature-rich MERN Blog Application with CRUD functionality, integrating CKEditor for seamless content management..",
+    "skills": ["React", "Express", "Node", "Mongodb"],
+
+    "source": "https://github.com/0xv1n4y/Blog-App"
+  },
+  {
+    "title": "Distance-Tracker",
+    "imageSrc": "projects/distance.png",
+    "description": "It is a Distance_calculator && Shipper - Data Application . It can calulate distance between 2 to 3 cities and display shipper data According to City names..",
+    "skills": ["React"],
+
+    "source": "https://github.com/0xv1n4y/DistanceTracker"
+  },
+  {
+    "title": "Live-Weather-Data",
+    "imageSrc": "projects/weather.png",
+    "description": "Developed a real-time Weather Data application leveraging Axios to fetch live weather information from OpenWeather API . It displays sunrise sunset etc.. ",
+    "skills": ["Html", "CSS", "React"],
+
+    "source": "https://github.com/0xv1n4y/Live-Weather-Data"
+  },
+  {
+    "title": "Task-Tracker",
+    "imageSrc": "projects/task.png",
+    "description": "Enhanced React.js proficiency through the development of a Task Tracker application, enabling daily task management and reminder setting.",
+    "skills": ["Html", "CSS", "React"],
+
+    "source": "https://github.com/0xv1n4y/Task-Tracker"
+  },
+  {
+    "title": "Picture-Gallery",
+    "imageSrc": "projects/gallery.png",
+    "description": "The Picture Gallery App is a user-friendly application that allows users to browse and search for wallpapers..",
+    "skills": ["Html", "CSS", "React"],
+
+    "source": "https://github.com/0xv1n4y/pictureGallery"
+  }
+]
