@@ -14,8 +14,7 @@ const Main = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I' am Vinay</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 2 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I'm a full-stack developer in MERN Stack Technologies. Reach out if you'd like to learn more!
         </p>
         <div className={styles.contact}>
           <a
